@@ -30,7 +30,7 @@ body {
 .obstacle {
     width: 118px;
     height: 118px;
-    background-image: url(dragon.png);
+    background-image: url(car.png);
     background-size: cover;
     position: absolute;
     bottom: 0;
